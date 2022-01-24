@@ -10,7 +10,7 @@
 3. Navigate to Prefferences>Profile>Colors
 4. Under the color presects menu choose import.
 5. Import the theme you want to use.
-6. Enjo.
+6. Enjoy.
 
 
 # Avilable themes
